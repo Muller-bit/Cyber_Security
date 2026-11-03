@@ -2,13 +2,13 @@
 
 Status: In progress
 
-What is  a network? a group of connected device , overall infrastructure 
+What is a network? a group of connected device , overall infrastructure
 
 ![image.png](Google%20Networking%20Roadmap/image.png)
 
-key terms 
+key terms
 
-- A  Hub : dumb and stupid , for security its really bad
+- A Hub : dumb and stupid , for security its really bad
 - Switch
 - Firewall : 1st line of defense
 - Router
@@ -91,9 +91,9 @@ In the client-server model, the client requests information and services from th
 - MAC address
 - IP address
 
-Explained like 5 
+Explained like 5
 
-- 
+-
 
 ### 1. MAC Address: Your Physical Home Address
 
@@ -107,7 +107,7 @@ Think of a **MAC address** like the **GPS coordinates or physical location of yo
 Think of an **IP address** like the **mailing address or phone number** given to you by the place where you are connected right now.
 
 - **Temporary / Dynamic:** It can change! When you plug your laptop into your home Wi-Fi, it gets one IP address. When you take your laptop to a coffee shop, the coffee shop gives it a completely different IP address.
-- **Routing:** It tells the internet *where* to send your messages so they actually reach your specific neighborhood and network.
+- **Routing:** It tells the internet _where_ to send your messages so they actually reach your specific neighborhood and network.
 
 ### How They Work Together (The Analogy)
 
@@ -116,15 +116,15 @@ Imagine someone wants to send you a package:
 - The postal service uses your **IP Address** to figure out which **city, street, and house** to bring the package to.
 - Once the mail carrier arrives at the front door, they use the **MAC Address** (your face/fingerprint) to make sure they hand the box to **you specifically**, and not your roommate or neighbor!
 
-Explained like 5 
+Explained like 5
 
 A Hub : dumb and stupid , for security its really bad  , why they invented this the?
 
-# 
+#
 
 You hit the nail right on the head! In terms of security and traffic management, hubs are pretty much the "dumb and stupid" grandparents of network hardware.
 
-If a hub gets a piece of data intended for Computer A, it doesn't know who Computer A is—so it literally screams that data out to **every single port on the device** (Computer B, Computer C, the printer, the smart toaster). Everyone receives it, inspects it, and decides whether to drop it or keep it. For security, that means anyone on a hub can easily eavesdrop on *all* network traffic.
+If a hub gets a piece of data intended for Computer A, it doesn't know who Computer A is—so it literally screams that data out to **every single port on the device** (Computer B, Computer C, the printer, the smart toaster). Everyone receives it, inspects it, and decides whether to drop it or keep it. For security, that means anyone on a hub can easily eavesdrop on _all_ network traffic.
 
 So, why on Earth did engineers invent them?
 
@@ -175,7 +175,7 @@ Review notes about CSP (Cloud Service Providers)
 
 ![image.png](Google%20Networking%20Roadmap/image%204.png)
 
-### ***Introduction to network communication***
+### **_Introduction to network communication_**
 
 ![image.png](Google%20Networking%20Roadmap/image%205.png)
 
@@ -185,7 +185,7 @@ Review notes about CSP (Cloud Service Providers)
 
 NITA
 
- Network layer >  Internet layer >  Transport layer>Access  
+Network layer > Internet layer > Transport layer>Access
 
 ![image.png](Google%20Networking%20Roadmap/image%207.png)
 
@@ -301,7 +301,7 @@ In an earlier part of this course, you learned about the history of IP addressin
 
 Some of the key differences between IPv4 and IPv6 include the length and the format of the addresses. IPv4 addresses are made up of four decimal numbers separated by periods, each number ranging from 0 to 255. Together the numbers span 4 bytes, and allow for up to 4.3 billion possible addresses. An example of an IPv4 address would be: 198.51.100.0. IPv6 addresses are made of eight hexadecimal numbers separated by colons, each number consisting of up to four hexadecimal digits. Together, all numbers span 16 bytes, and allow for up to 340 undecillion addresses (340 followed by 36 zeros). An example of an IPv6 address would be: 2002:0db8:0000:0000:0000:ff21:0023:1234.
 
-***Note:** to represent one or more consecutive sets of all zeros, you can replace the zeros with a double colon "::", so the above IPv6 address would be "*2002:0db8::ff21:0023:1234."
+**\*Note:** to represent one or more consecutive sets of all zeros, you can replace the zeros with a double colon "::", so the above IPv6 address would be "\*2002:0db8::ff21:0023:1234."
 
 There are also some differences in the layout of an IPv6 packet header. The IPv6 header format is much simpler than IPv4. For example, the IPv4 Header includes the IHL, Identification, and Flags fields, whereas the IPv6 does not. The IPv6 header only introduces the Flow Label field, where the Flow Label identifies a packet as requiring special handling by other IPv6 routers.
 
@@ -406,13 +406,13 @@ Security protocols are network protocols that ensure that data is sent and recei
 
 The protocols you learned about in this reading are basic networking protocols that entry-level cybersecurity analysts should know. Understanding how protocols function on a network is essential. Cybersecurity analysts can leverage their knowledge of protocols to successfully mitigate vulnerabilities on a network and potentially prevent future attacks.
 
-***System identification -08-08-2026***
+**_System identification -08-08-2026_**
 
 **Firewalls and network security measures**
 
 ![image.png](Google%20Networking%20Roadmap/image%2010.png)
 
-***Virtual private networks (VPNs)***
+**_Virtual private networks (VPNs)_**
 
 Encapsulation is a process performed by a VPN service that protects your data by wrapping sensitive data in other data packets.
 
@@ -420,7 +420,7 @@ Encapsulation is a process performed by a VPN service that protects your data by
 
 ![image.png](Google%20Networking%20Roadmap/image%2012.png)
 
-***Security zones***
+**_Security zones_**
 
 Security zones are a segment of a network that protects the internal network from the internet.
 
@@ -428,7 +428,7 @@ They are a part of a security technique called network segmentation that divides
 
 ![image.png](Google%20Networking%20Roadmap/image%2013.png)
 
-Two types of security zones. 
+Two types of security zones.
 
 First, there's the uncontrolled zone, which is any network outside of the organization's control, like the internet.
 
@@ -472,7 +472,7 @@ Subnetting allows network professionals and analysts to create a network within 
 
 Subnetting is a common security strategy used by organizations. Subnetting allows organizations to create smaller networks within their private network. This improves the efficiency of the network and can be used to create security zones.
 
-***Proxy servers***
+**_Proxy servers_**
 
 The definition of a proxy server is a server that fulfills the request of a client by forwarding them on to other servers.
 
