@@ -11,7 +11,7 @@ Status: In progress
 
 ![image.png](Foundation%20Google%20Cyber/image.png)
 
-  FOUNDATION  OF  CYBERSECURITY
+FOUNDATION OF CYBERSECURITY
 
 - **`01-Foundations-of-Cybersecurity/` (CIA Triad, Security Frameworks)**
 - Protect organization , secure data , system and network ,password management , minimize risk ,incident management.
@@ -32,7 +32,7 @@ You'll learn about topics like:
 
 The Google Cybersecurity Certificate has nine courses that focus and build upon core concepts and skills related to the daily work of cybersecurity professionals, including foundational cybersecurity models and frameworks that are used to mitigate risk; protecting networks and data; using programming to automate tasks; identifying and responding to security incidents; and communicating and collaborating with stakeholders. Additionally, you will apply what you’ve learned in each course by completing portfolio projects that can be used to showcase your understanding of essential cybersecurity concepts to potential employers. The courses of the program are as follows:
 
-1. [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) *(current course)*
+1. [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) _(current course)_
 2. [**Play It Safe: Manage Security Risks**](https://www.coursera.org/learn/manage-security-risks/home/week/1)
 3. [**Connect and Protect: Networks and Network Security**](https://www.coursera.org/learn/networks-and-network-security/home/week/1)
 4. [**Tools of the Trade: Linux and SQL**](https://www.coursera.org/learn/linux-and-sql/home/week/1)
@@ -64,11 +64,11 @@ You have probably developed many transferable skills through life experiences; s
 
 There are many technical skills that will help you be successful in the cybersecurity field. You’ll learn and practice these skills as you progress through the certificate program. Some of the tools and concepts you’ll need to use and be able to understand include:
 
-- ***Programming languages:*** By understanding how to use programming languages, cybersecurity analysts can automate tasks that would otherwise be very time consuming. Examples of tasks that programming can be used for include searching data to identify potential threats or organizing and analyzing information to identify patterns related to security issues.
-- ***Security information and event management* (SIEM) tools:** SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts’ ability to monitor critical activities in an organization. This helps cybersecurity professionals identify and analyze potential security threats, risks, and vulnerabilities more efficiently.
-- ***Intrusion detection systems (IDSs)*:** Cybersecurity analysts use IDSs to monitor system activity and alerts for possible intrusions. It’s important to become familiar with IDSs because they’re a key tool that every organization uses to protect assets and data. For example, you might use an IDS to monitor networks for signs of malicious activity, like unauthorized access to a network.
+- **_Programming languages:_** By understanding how to use programming languages, cybersecurity analysts can automate tasks that would otherwise be very time consuming. Examples of tasks that programming can be used for include searching data to identify potential threats or organizing and analyzing information to identify patterns related to security issues.
+- **_Security information and event management_ (SIEM) tools:** SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts’ ability to monitor critical activities in an organization. This helps cybersecurity professionals identify and analyze potential security threats, risks, and vulnerabilities more efficiently.
+- **_Intrusion detection systems (IDSs)_:** Cybersecurity analysts use IDSs to monitor system activity and alerts for possible intrusions. It’s important to become familiar with IDSs because they’re a key tool that every organization uses to protect assets and data. For example, you might use an IDS to monitor networks for signs of malicious activity, like unauthorized access to a network.
 
-- It doesn't fight off the intruder itself, it just tells the humans (cybersecurity analysts) so *they* can go check it out and deal with it
+- It doesn't fight off the intruder itself, it just tells the humans (cybersecurity analysts) so _they_ can go check it out and deal with it
 
 So the IDS's whole job is: **watch, notice weird stuff, and yell for help** — not to lock the door itself.
 
@@ -131,42 +131,42 @@ Understanding the benefits of core transferable and technical skills can help pr
 
 ## **Welcome to module 2**
 
-***The Evolution of Cyber Security***
+**_The Evolution of Cyber Security_**
 
-Virus , Malware , Worms,  Social engineering 
+Virus , Malware , Worms, Social engineering
 
 - 8 Security Domain
 
 **Past cybersecurity attacks**
 
 - Morris worm , Brain virus ,
-- The love letter -Onald Guzman  - he used email through social engineering to trick people
+- The love letter -Onald Guzman - he used email through social engineering to trick people
 
 ![image.png](Foundation%20Google%20Cyber/image%2011.png)
 
 2017 , Equifacts credit reporting agency data loss attacks affected 40% of all Americans ,
 
-(PII) - brith date , credit card number , home address  — stolen 
+(PII) - brith date , credit card number , home address — stolen
 
-- 500 million dollar  fine for the us govt , settle customer complaint
+- 500 million dollar fine for the us govt , settle customer complaint
 
 # Common attacks and their effectiveness
 
-Previously, you learned about past and present attacks that helped shape the cybersecurity industry. These included the LoveLetter attack, also called the ILOVEYOU virus, and the Morris worm. One outcome was the establishment of response teams, which are now commonly referred to as computer security incident response teams (CSIRTs). In this reading, you will learn more about common methods of attack. Becoming familiar with different attack methods, *and* the evolving tactics and techniques threat actors use, will help you better protect organizations and people.
+Previously, you learned about past and present attacks that helped shape the cybersecurity industry. These included the LoveLetter attack, also called the ILOVEYOU virus, and the Morris worm. One outcome was the establishment of response teams, which are now commonly referred to as computer security incident response teams (CSIRTs). In this reading, you will learn more about common methods of attack. Becoming familiar with different attack methods, _and_ the evolving tactics and techniques threat actors use, will help you better protect organizations and people.
 
-## ***Phishing***
+## **_Phishing_**
 
-***Phishing*** is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+**_Phishing_** is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
 
 Some of the most common types of phishing attacks today include:
 
-- ***Business Email Compromise (BEC)*:** A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
-- ***Spear phishing*:** A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
-- ***Whaling*:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
-- ***Vishing*:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
-- ***Smishing*:** The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+- **_Business Email Compromise (BEC)_:** A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
+- **_Spear phishing_:** A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+- **_Whaling_:** A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+- **_Vishing_:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+- **_Smishing_:** The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
 
-## *Malware*
+## _Malware_
 
 **Malware** is software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.
 
@@ -183,8 +183,8 @@ Some of the most common types of malware attacks today include:
 
 Some of the most common types of social engineering attacks today include:
 
-- ***Social media phishing*:** A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
-- ***Watering hole attack*:** A threat actor attacks a website frequently visited by a specific group of users.
+- **_Social media phishing_:** A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+- **_Watering hole attack_:** A threat actor attacks a website frequently visited by a specific group of users.
 - **USB baiting:** A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network.
 - **Physical social engineering:** A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
 
@@ -199,10 +199,10 @@ Reasons why social engineering attacks are effective include:
 - **Consensus/Social proof:** Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past.
 - **Scarcity:** A tactic used to imply that goods or services are in limited supply.
 - **Familiarity:** Threat actors establish a fake emotional connection with users that can be exploited.
-- **Trust:** Threat actors establish an emotional relationship with users that can be exploited *over time*. They use this relationship to develop trust and gain personal information.
+- **Trust:** Threat actors establish an emotional relationship with users that can be exploited _over time_. They use this relationship to develop trust and gain personal information.
 - **Urgency:** A threat actor persuades others to respond quickly and without questioning.
 
-## **Key  takeaways**
+## **Key takeaways**
 
 In this reading, you learned about some common attacks and their impacts. You also learned about social engineering and why it’s so successful. While this is only a brief introduction to attack types, you will have many opportunities throughout the program to further develop your understanding of how to identify and defend against cybersecurity attacks.
 
@@ -232,7 +232,7 @@ The Malware Suite
 
 4. Ransomware
 
-→  Encrypts critical assets and demands a ransom.
+→ Encrypts critical assets and demands a ransom.
 
 5. Spyware
 
@@ -242,7 +242,7 @@ Network & Identity Threats
 
 6. DDoS
 
-→  Floods infrastructure with traffic to force downtime.
+→ Floods infrastructure with traffic to force downtime.
 
 7. MitM (Man-in-the-Middle)
 
@@ -254,7 +254,7 @@ Network & Identity Threats
 
 9. Session Hijacking
 
-→  Steals active tokens to bypass authentication.
+→ Steals active tokens to bypass authentication.
 
 10. Brute Force
 
@@ -264,11 +264,11 @@ Application & Web Exploits
 
 11. SQL Injection (SQLi)
 
-→  Injects malicious queries into vulnerable backend databases.
+→ Injects malicious queries into vulnerable backend databases.
 
 12. Cross-Site Scripting (XSS)
 
-→  Injects scripts into trusted web pages to target end-users.
+→ Injects scripts into trusted web pages to target end-users.
 
 13. API Exploits
 
@@ -282,7 +282,7 @@ The Human Element
 
 15. Deepfakes
 
-→  Uses synthetic AI audio/video to impersonate executives and trusted contacts.
+→ Uses synthetic AI audio/video to impersonate executives and trusted contacts.
 
 The Takeaway
 
@@ -330,7 +330,7 @@ This domain focuses on managing and securing physical networks and wireless comm
 
 to control and manage physical assets, like office spaces, and logical assets, such as networks and applications. Validating the identities of employees and documenting access roles
 
-This  focuses on the identity who and what resource the user can access.
+This focuses on the identity who and what resource the user can access.
 
 1. [Security](http://6.Security) assessment and Testing
 
@@ -340,13 +340,13 @@ This domain focuses on conducting security control testing, collecting and analy
 
 This domain focuses on conducting investigations and implementing preventative measures.
 
-1. [Software](http://8.Software)  Development (SDLC)
+1. [Software](http://8.Software) Development (SDLC)
 
 This domain focuses on using secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services.
 
 - Secure coding practice
 
-# Determine  the  type of attack
+# Determine the type of attack
 
 Previously, you learned about the eight Certified Information Systems Security Professional (CISSP) security domains. The domains can help you better understand how a security analyst's job duties can be organized into categories. Additionally, the domains can help establish an understanding of how to manage risk. In this reading, you will learn about additional methods of attack. You’ll also be able to recognize the types of risk these attacks present.
 
@@ -498,10 +498,10 @@ To learn more about how security teams work to keep organizations and people saf
 
 - Log → record of events
 - Playbook- a manually provide step by step guidance in cybersecurity
-- 
+-
 - Packet sniffer Network protocol Analyzer
 - SIEM tools , Splunk
-- Playbooks (chainof custudy → documenting evidence (WH questions) and   the protect and preserving evidence playbook→(working with fragile and volatile data)
+- Playbooks (chainof custudy → documenting evidence (WH questions) and the protect and preserving evidence playbook→(working with fragile and volatile data)
 
 Module Challenge
 
@@ -529,7 +529,7 @@ Every organization may provide a different toolkit, depending on its security ne
 
 A **SIEM tool** is an application that collects and analyzes log data to monitor critical activities in an organization. A **log** is a record of events that occur within an organization’s systems. Depending on the amount of data you’re working with, it could take hours or days to filter through log data on your own. SIEM tools reduce the amount of data an analyst must review by providing alerts for specific types of threats, risks, and vulnerabilities.
 
-SIEM tools provide a series of dashboards ****that visually organize data into categories, allowing users to select the data they wish to analyze. Different SIEM tools ****have different dashboard types that display the information you have access to.
+SIEM tools provide a series of dashboards \***\*that visually organize data into categories, allowing users to select the data they wish to analyze. Different SIEM tools \*\***have different dashboard types that display the information you have access to.
 
 SIEM tools also come with different hosting options, including on-premise and cloud. Organizations may choose one hosting option over another based on a security team member’s expertise. For example, because a cloud-hosted version tends to be easier to set up, use, and maintain than an on-premise version, a less experienced security team may choose this option for their organization.
 
@@ -545,8 +545,8 @@ For example, consider the following scenario: You are working as a security anal
 
 In this scenario, playbooks would outline the specific actions you need to take to conduct the investigation. Playbooks also help ensure that you are following proper protocols and procedures. When working on a forensic case, there are two playbooks you might follow:
 
-- The first type of playbook you might consult is called the **chain of custody** playbook. ****Chain of custody is the process of documenting evidence possession and control during an incident lifecycle. As a security analyst involved in a forensic analysis, you will work with the computer data that was breached. You and the forensic team will also need to document who, what, where, and why you have the collected evidence. The evidence is your responsibility while it is in your possession. Evidence must be kept safe and tracked. Every time evidence is moved, it should be reported. This allows all parties involved to know exactly where the evidence is at all times.
-- The second playbook your team might use is called the **protecting and preserving evidence** playbook. Protecting and preserving evidence is the process of properly working with fragile and volatile digital evidence. As a security analyst, understanding what fragile and volatile digital evidence is, along with why there is a procedure, is critical. As you follow this playbook, you will consult the **order of volatility**, ****which is a sequence outlining the order of data that must be preserved from first to last. It prioritizes volatile data, which is data that may be lost if the device in question powers off, regardless of the reason. While conducting an investigation, improper management of digital evidence can compromise and alter that evidence. When evidence is improperly managed during an investigation, it can no longer be used. For this reason, the first priority in any investigation is to properly preserve the data. You can preserve the data by making copies and conducting your investigation using those copies.
+- The first type of playbook you might consult is called the **chain of custody** playbook. \*\*\*\*Chain of custody is the process of documenting evidence possession and control during an incident lifecycle. As a security analyst involved in a forensic analysis, you will work with the computer data that was breached. You and the forensic team will also need to document who, what, where, and why you have the collected evidence. The evidence is your responsibility while it is in your possession. Evidence must be kept safe and tracked. Every time evidence is moved, it should be reported. This allows all parties involved to know exactly where the evidence is at all times.
+- The second playbook your team might use is called the **protecting and preserving evidence** playbook. Protecting and preserving evidence is the process of properly working with fragile and volatile digital evidence. As a security analyst, understanding what fragile and volatile digital evidence is, along with why there is a procedure, is critical. As you follow this playbook, you will consult the **order of volatility**, \*\*\*\*which is a sequence outlining the order of data that must be preserved from first to last. It prioritizes volatile data, which is data that may be lost if the device in question powers off, regardless of the reason. While conducting an investigation, improper management of digital evidence can compromise and alter that evidence. When evidence is improperly managed during an investigation, it can no longer be used. For this reason, the first priority in any investigation is to properly preserve the data. You can preserve the data by making copies and conducting your investigation using those copies.
 
 ## **Key takeaways**
 
@@ -558,7 +558,7 @@ The Google Cybersecurity Action Team's [Threat Horizon Report](https://services.
 
 The Cybersecurity & Infrastructure Security Agency (CISA) has a list of [Free Cybersecurity Services and Tools](https://www.cisa.gov/free-cybersecurity-services-and-tools). Review the list to learn more about open-source cybersecurity tools.
 
-***Test for practice*** 
+**_Test for practice_**
 
 ![image.png](Foundation%20Google%20Cyber/image%2023.png)
 
@@ -568,7 +568,7 @@ The Cybersecurity & Infrastructure Security Agency (CISA) has a list of [Free Cy
 
 ## Module 3
 
-## *Protect against threat , risk and vulnerabilities*
+## _Protect against threat , risk and vulnerabilities_
 
 /////////////////
 
@@ -595,7 +595,7 @@ Previously, you were introduced to the concept of security ethics. **Security et
 
 ### **United States standpoint on counterattacks**
 
-In the U.S., deploying a counterattack on a threat actor is illegal because of laws like the Computer Fraud and Abuse Act of 1986 and the Cybersecurity Information Sharing Act of 2015, among others. You can only defend. The act of counterattacking in the U.S. is perceived as an act of vigilantism. A ****vigilante is a person who is not a member of law enforcement who decides to stop a crime on their own. And because threat actors are criminals, counterattacks can lead to further escalation of the attack, which can cause even more damage and harm. Lastly, if the threat actor in question is a state-sponsored hacktivist, a counterattack can lead to serious international implications. A **hacktivist** is a person who uses hacking to achieve a political goal. The political goal may be to promote social change or civil disobedience.
+In the U.S., deploying a counterattack on a threat actor is illegal because of laws like the Computer Fraud and Abuse Act of 1986 and the Cybersecurity Information Sharing Act of 2015, among others. You can only defend. The act of counterattacking in the U.S. is perceived as an act of vigilantism. A \***\*vigilante is a person who is not a member of law enforcement who decides to stop a crime on their own. And because threat actors are criminals, counterattacks can lead to further escalation of the attack, which can cause even more damage and harm. Lastly, if the threat actor in question is a state-sponsored hacktivist, a counterattack can lead to serious international implications. A **hacktivist\*\* is a person who uses hacking to achieve a political goal. The political goal may be to promote social change or civil disobedience.
 
 For these reasons, the only individuals in the U.S. who are allowed to counterattack are approved employees of the federal government or military personnel.
 
@@ -618,7 +618,7 @@ Because counterattacks are generally disapproved of or illegal, the security rea
 
 **Confidentiality** means that only authorized users can access specific assets or data. Confidentiality as it relates to professional ethics means that there needs to be a high level of respect for privacy to safeguard private assets and data.
 
-**Privacy protection** means safeguarding personal information from unauthorized use. Personally identifiable information (PII) and sensitive personally identifiable information (SPII) ****are types of personal data that can cause people harm if they are stolen. **PII** data is any information used to infer an individual's identity, like their name and phone number. **SPII** data is a specific type of PII that falls under stricter handling guidelines, including social security numbers and credit card numbers. To effectively safeguard PII and SPII ****data, security professionals hold an ethical obligation to secure private information, identify security vulnerabilities, manage organizational risks, and align security with business goals.
+**Privacy protection** means safeguarding personal information from unauthorized use. Personally identifiable information (PII) and sensitive personally identifiable information (SPII) \***\*are types of personal data that can cause people harm if they are stolen. **PII** data is any information used to infer an individual's identity, like their name and phone number. **SPII** data is a specific type of PII that falls under stricter handling guidelines, including social security numbers and credit card numbers. To effectively safeguard PII and SPII \*\***data, security professionals hold an ethical obligation to secure private information, identify security vulnerabilities, manage organizational risks, and align security with business goals.
 
 **Laws** are rules that are recognized by a community and enforced by a governing entity. As a security professional, you will have an ethical obligation to protect your organization, its internal infrastructure, and the people involved with the organization. To do this:
 
@@ -679,7 +679,7 @@ As a future security professional, ethics will play a large role in your daily w
 
 **Sensitive personally identifiable information (SPII):** A specific type of PII that falls under stricter handling guidelines
 
-### ***Module 3 challenge***
+### **_Module 3 challenge_**
 
 ![image.png](Foundation%20Google%20Cyber/image%2027.png)
 
@@ -691,9 +691,9 @@ As a future security professional, ethics will play a large role in your daily w
 
 ![image.png](Foundation%20Google%20Cyber/image%2031.png)
 
-### ***Module 4***
+### **_Module 4_**
 
-## ***Introduction to Linux, SQL, and Python***
+## **_Introduction to Linux, SQL, and Python_**
 
 ![image.png](Foundation%20Google%20Cyber/image%2032.png)
 
@@ -709,13 +709,13 @@ Previously, you were introduced to programming, operating systems, and tools com
 
 **Programming** is a process that can be used to create a specific set of instructions for a computer to execute tasks. Security analysts use programming languages, such as Python, to execute automation. **Automation** is the use of technology to reduce human and manual effort in performing common and repetitive tasks. Automation also helps reduce the risk of human error.
 
-Another programming language used by analysts is called Structured Query Language (SQL). **SQL** is used to create, interact with, and request information from a database. A **database** is an organized collection of information or data. There can be millions of data points ****in a database. A **data point** is a specific piece of information.
+Another programming language used by analysts is called Structured Query Language (SQL). **SQL** is used to create, interact with, and request information from a database. A **database** is an organized collection of information or data. There can be millions of data points \***\*in a database. A **data point\*\* is a specific piece of information.
 
 ### **Operating systems**
 
 An **operating system** is the interface between computer hardware and the user. Linux®, macOS®, and Windows are operating systems. They each offer different functionality and user experiences.
 
-Previously, you were introduced to **Linux** as an open-source operating system. Open source means that the code is available to the public and allows people to make contributions to improve the software. Linux is not a programming language; however, it does involve the use of a command line within the operating system. A **command** is an instruction telling the computer to do something. A **command-line** interface ****is a text-based user interface that uses commands to interact with the computer. You will learn more about Linux, including the Linux kernel and GNU, in a later course.
+Previously, you were introduced to **Linux** as an open-source operating system. Open source means that the code is available to the public and allows people to make contributions to improve the software. Linux is not a programming language; however, it does involve the use of a command line within the operating system. A **command** is an instruction telling the computer to do something. A **command-line** interface \*\*\*\*is a text-based user interface that uses commands to interact with the computer. You will learn more about Linux, including the Linux kernel and GNU, in a later course.
 
 ### **Web vulnerability**
 
@@ -749,7 +749,7 @@ In this reading, you learned more about programming and operating systems. You w
 
 ![image.png](Foundation%20Google%20Cyber/image%2034.png)
 
-PORTFOLIO BUILDING 
+PORTFOLIO BUILDING
 
 # Create a cybersecurity portfolio
 
@@ -798,7 +798,7 @@ Similar to a documents folder, keeping your Google Drive or Dropbox-based portfo
 
 **Description:** Google Sites and similar website hosting options have a variety of easy-to-use features to help you present your portfolio items, including customizable layouts, responsive webpages, embedded content capabilities, and web publishing.
 
-Responsive webpages automatically adjust their content to fit a variety of devices and screen sizes. This is helpful because potential employers can review your content using any device and your media will display just as you intend. ****When you’re ready, you can publish your website and receive a unique URL. You can add this link to your resume so hiring managers can easily access your work.
+Responsive webpages automatically adjust their content to fit a variety of devices and screen sizes. This is helpful because potential employers can review your content using any device and your media will display just as you intend. \*\*\*\*When you’re ready, you can publish your website and receive a unique URL. You can add this link to your resume so hiring managers can easily access your work.
 
 **Setup:** To learn how to create a website in Google Sites, visit the Google Sites website.
 
@@ -834,7 +834,7 @@ As previously mentioned, you will have multiple opportunities throughout the cer
 
 Now that you’re aware of some options for creating and hosting a professional portfolio, you can consider these as you develop items for your portfolio throughout the certificate program. The more proactive you are about creating a polished portfolio, the higher your chances of impressing a potential employer and obtaining a new job opportunity in the cybersecurity profession.
 
-# *Glossary terms from module 4*
+# _Glossary terms from module 4_
 
 **0:13/1:12**
 
@@ -894,7 +894,7 @@ You're not alone on this learning journey. Learning is more rewarding when you'r
 
 Ready to dive in? [Join your Community](https://www.coursera.support/s/group-invite?id=MEY5VkgwMDAwMDAwMWMxMEFB)
 
-The community is here to support you every step of the way. *Participation in the community is optional and offered at no cost to you.*
+The community is here to support you every step of the way. _Participation in the community is optional and offered at no cost to you._
 
 We’ve covered a lot of terms—some of which you may have already known, and some of which are new. To make it easy to remember what a word means, we created this glossary of terms and definitions.
 
@@ -914,7 +914,7 @@ The Google Cybersecurity Certificate has eight courses:
 
 ![Eight icons show courses sequentially from left to right. The first icon is a different color to indicate course completion.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/6XSJVYkRTsirLaWjoKko0A_90d89c72d8714414a6e45aa4b219dff1_S33G003.png?expiry=1786334908243&hmac=dv53tT1j_4jxkP4-uno8mgdkzodcJXatHeI-YhE9flU)
 
-1. **Foundations of Cybersecurity** — Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities. *(This is the course you just completed. Well done!)*
+1. **Foundations of Cybersecurity** — Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities. _(This is the course you just completed. Well done!)_
 2. **Play It Safe: Manage Security Risks** — Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
 3. **Connect and Protect: Networks and Network Security** — Gain an understanding of network-level vulnerabilities and how to secure networks.
 4. **Tools of the Trade: Linux and SQL** — Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL.
@@ -922,11 +922,11 @@ The Google Cybersecurity Certificate has eight courses:
 6. **Sound the Alarm: Detection and Response** — Understand the incident response lifecycle and practice using tools to detect and respond to cybersecurity incidents.
 7. **Automate Cybersecurity Tasks with Python** — Explore the Python programming language and write code to automate cybersecurity tasks.
 8. **Put It to Work: Prepare for Cybersecurity Jobs** — Learn about incident classification, escalation, and ways to communicate with stakeholders. This course closes out the program with tips on how to engage with the cybersecurity community and prepare for your job search.
-9. **Accelerate Your Job Search with AI** **— Gain practical job search strategies and learn how to leverage AI tools (like Gemini and Gemini Notebook) to uncover your most valuable skills, create a job search plan, manage your applications, and practice for interviews as you navigate your path to your next role.
+9. **Accelerate Your Job Search with AI** \*\*— Gain practical job search strategies and learn how to leverage AI tools (like Gemini and Gemini Notebook) to uncover your most valuable skills, create a job search plan, manage your applications, and practice for interviews as you navigate your path to your next role.
 
 Now that you have completed this course, you are ready to move on to the next course:
 
-## ***Portfolio Activity: Draft a professional statement***
+## **_Portfolio Activity: Draft a professional statement_**
 
 Activity Overview
 
@@ -954,7 +954,7 @@ You are excited to enter the field of cybersecurity. As you begin to consider th
 
 Follow the instructions to complete each step of the activity. Then, answer the five questions at the end of the activity before going to the next course item to compare your work to a completed exemplar.
 
-# 
+#
 
 The following supporting materials will help you complete this activity. Keep it open as you proceed to the next steps.
 
@@ -966,29 +966,29 @@ OR
 
 If you don’t have a Google account, you can download the supporting materials directly from the following attachment.
 
-# 
+#
 
 Your professional statement is your opportunity to show prospective employers who you are as a person and potential employee, and it allows them to understand the value you can bring to the organization.
 
-***Note:** You will not submit/upload your professional statement directly into this activity; you will need to download/save it to your own device. Then, upload it to the portfolio platform/site of your choice when it’s ready to share with potential employers.*
+**\*Note:** You will not submit/upload your professional statement directly into this activity; you will need to download/save it to your own device. Then, upload it to the portfolio platform/site of your choice when it’s ready to share with potential employers.\*
 
 Use these guidelines to develop your draft professional statement:
 
 1. Use your own device to open a word processing document or application (or use a blank piece of paper).
 2. Refer to your professional statement outline notes from step one and consider:
-    1. What are your strengths (ones you currently have or plan to develop)?
-    2. What are your values?
-    3. What interests you most about a career in cybersecurity?
-    4. How can your strengths, values, and interest in cybersecurity support the security goals of various organizations?
+   1. What are your strengths (ones you currently have or plan to develop)?
+   2. What are your values?
+   3. What interests you most about a career in cybersecurity?
+   4. How can your strengths, values, and interest in cybersecurity support the security goals of various organizations?
 3. Draft a two- to three-sentence professional statement that includes details about your strengths, values, and interest in cybersecurity, as well as how they can support the security goals of various organizations.
 
 Refer to the following professional statement examples for ideas:
 
-***Example A:** I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike.*
+**\*Example A:** I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike.\*
 
-***Example B:** I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.*
+**\*Example B:** I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.\*
 
-# 
+#
 
 Open the document [Refine your professional statement](https://docs.google.com/document/d/1uodGPtGAS247wACdtJ7ITe3BcwFL993sQy5P9_pAj48/template/preview) for additional guidance about strengthening your professional statement.
 
@@ -1012,7 +1012,7 @@ Be sure to address the following elements in your completed activity:
 
 ### **Step 4: Assess your activity**
 
-Following is the self-assessment for your professional statement. You will use these statements to review your own work. The self-assessment process is an important part of the learning experience because it allows you to *objectively* assess your professional statement.
+Following is the self-assessment for your professional statement. You will use these statements to review your own work. The self-assessment process is an important part of the learning experience because it allows you to _objectively_ assess your professional statement.
 
 There are a total of 5 points possible for this activity and each statement is worth 1 point. The items correspond to each step you completed for the activity.
 
@@ -1108,6 +1108,6 @@ No
 
 **Nice work**
 
-### ***Portfolio Activity Exemplar: Draft a professional statement***
+### **_Portfolio Activity Exemplar: Draft a professional statement_**
 
-***Note:** The exemplar represents one possible way to complete the activity. Yours will likely differ in certain ways. What’s important is that your activity explains your strengths, values, and interest in the cybersecurity profession.*
+**\*Note:** The exemplar represents one possible way to complete the activity. Yours will likely differ in certain ways. What’s important is that your activity explains your strengths, values, and interest in the cybersecurity profession.\*
